@@ -1,12 +1,13 @@
 body{
     background-color: beige;
 
-font-size: 30px;
+font-size: 40px;
 text-align: justify;
-color:red;
+color:rgb(49, 8, 8);
 }
 h1 { 
-    color:blue;
+    color:rgb(255, 123, 0);
     font-size: 50px;
-    text-align: center;
+    text-align: center
+    
 }
